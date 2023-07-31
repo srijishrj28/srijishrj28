@@ -3,9 +3,9 @@
 
 <p>About me:</p>
 
-- I’m currently working on... 🤔
+- I’m currently working on Full Stack Web Development🤔
 
-- I’m currently learning about <b>Mobile</b> with <b>Flutter/Dart</b>
+- I’m currently learning about <b>Mobile Application Development</b> with <b>Flutter/Dart</b>
 
 - I’m looking to collaborate on <b>everything i can</b>
 
