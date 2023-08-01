@@ -34,8 +34,8 @@
 <div align="center">
  <a href="mailto:srijishrj@gmail.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-contact@lucasjosino.com-%230D1117?style=for-the-badge&logo=Mail.Ru&logoColor=white&link=mailto:contact@lucasjosino.com">
-    <img align="center" alt="Contact" src="https://img.shields.io/badge/-srijishrj@gmail.com-white?style=for-the-badge&logo=Mail.Ru&logoColor=black&link=mailto:contact@lucasjosino.com">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-srijishrj@gmail.com-%230D1117?style=for-the-badge&logo=Mail.Ru&logoColor=white&link=mailto:srijishrj@gmail.com">
+    <img align="center" alt="Contact" src="https://img.shields.io/badge/-srijishrj@gmail.com-white?style=for-the-badge&logo=Mail.Ru&logoColor=black&link=mailto:srijishrj@gmail.com">
   </picture>
  </a>
  </div>
